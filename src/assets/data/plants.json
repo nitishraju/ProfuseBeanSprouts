@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Green Beans",
+    "scientificName": "Phaseolus vulgaris",
+    "imageUrl": "https://images.unsplash.com/photo-1576763595295-c0371a32af78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Green beans are the unripe, young fruit and protective pods of various cultivars of the common bean (Phaseolus vulgaris). Immature or young pods of the runner bean , yardlong bean, and hyacinth bean are used in a similar way. Green beans are known by many common names, including French beans,string beans (for old varieties; modern varieties are stringless), snap beans, snaps, and the French name haricot vert. It is commonly grown in the northern highlands of Benguet, Mountain Province and Nueva Viscaya, and other mid-elevation areas in the country like Bukidnon, Quezon and Laguna.",
+    "growingTipsUrl": "https://www.thespruce.com/how-to-grow-green-beans-1403459"
+  },
+  {
+    "name": "Garlic",
+    "scientificName": "Allium sativum",
+    "imageUrl": "https://images.unsplash.com/photo-1540148426945-6cf22a6b2383?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Garlic is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and Chinese onion. Garlic is native to Central Asia and northeastern Iran, and has long been a common seasoning worldwide, with a history of several thousand years of human consumption and use.",
+    "growingTipsUrl": "https://www.thespruce.com/grow-great-garlic-3016629"
+  },
+  {
+    "name": "Tomatoes",
+    "scientificName": "Solanum lycopersicum",
+    "imageUrl": "https://images.unsplash.com/photo-1518977822534-7049a61ee0c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America. The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived. ",
+    "growingTipsUrl": "https://www.thespruce.com/growing-tomatoes-1403296"
+  },
+  {
+    "name": "Carrots",
+    "scientificName": "Daucus carota subsp",
+    "imageUrl": "https://images.unsplash.com/photo-1447175008436-054170c2e979?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "The carrot is a root vegetable, usually orange in colour, though purple, black, red, white, and yellow cultivars exist. They are a domesticated form of the wild carrot, Daucus carota, native to Europe and Southwestern Asia. The plant probably originated in Persia and was originally cultivated for its leaves and seeds.",
+    "growingTipsUrl": "https://www.thespruce.com/how-to-grow-organic-carrots-2540012"
+  },
+  {
+    "name": "Potatoes",
+    "scientificName": "Solanum tuberosum",
+    "imageUrl": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "description": "The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum, and the plant itself, a perennial in the family Solanaceae. Wild potato species can be found throughout the Americas, from the United States to southern Chile.",
+    "growingTipsUrl": "https://www.thespruce.com/growing-organic-potatoes-in-your-garden-2540006"
+  },
+  {
+    "name": "Leeks",
+    "scientificName": "Allium ampeloprasum",
+    "imageUrl": "https://images.unsplash.com/photo-1549913468-0ddc24a4a1bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "The leek is a vegetable, a cultivar of Allium ampeloprasum, the broadleaf wild leek. The edible part of the plant is a bundle of leaf sheaths that is sometimes erroneously called a stem or stalk. The genus Allium also contains the onion, garlic, shallot, scallion, chive, and Chinese onion. ",
+    "growingTipsUrl": "https://www.thespruce.com/growing-leeks-in-the-vegetable-garden-1403462"
+  },
+  {
+    "name": "Broccoli",
+    "scientificName": "Brassica oleracea",
+    "imageUrl": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Broccoli is an edible green plant in the cabbage family whose large flowering head and stalk is eaten as a vegetable. The word broccoli comes from the Italian plural of broccolo, which means 'the flowering crest of a cabbage', and is the diminutive form of brocco, meaning 'small nail' or 'sprout'.",
+    "growingTipsUrl": "https://www.thespruce.com/growing-broccoli-plants-in-the-vegetable-garden-1403457"
+  },
+  {
+    "name": "Shallots",
+    "scientificName": "Allium cepa",
+    "imageUrl": "https://images.unsplash.com/photo-1554978264-ac549b2feba2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "The shallot is a type of onion, specifically a botanical variety of the species Allium cepa. The shallot was formerly classified as a separate species, A. ascalonicum, a name now considered a synonym of the currently accepted name. Its close relatives include the garlic, leek, chive, and Chinese onion. ",
+    "growingTipsUrl": "https://www.thespruce.com/growing-shallots-in-the-vegetable-garden-1403464"
+  },
+  {
+    "name": "Thyme",
+    "scientificName": "Thymus vulgaris",
+    "imageUrl": "https://images.unsplash.com/photo-1526317971788-2f138319e48b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Thyme is any member of the genus Thymus of aromatic perennial evergreen herbs in the mint family Lamiaceae. Thymes are relatives of the oregano genus Origanum. They have culinary, medicinal, and ornamental uses, and the species most commonly cultivated and used for culinary purposes is Thymus vulgaris. ",
+    "growingTipsUrl": "https://www.thespruce.com/how-to-grow-thyme-1402630"
+  },
+  {
+    "name": "Rosemary",
+    "scientificName": "Salvia rosmarinus",
+    "imageUrl": "https://images.unsplash.com/photo-1517135399940-2855f5be7c4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "description": "Salvia rosmarinus, commonly known as rosemary, is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region. Until 2017, it was known by the scientific name Rosmarinus officinalis, now a synonym. ",
+    "growingTipsUrl": "https://www.thespruce.com/grow-and-care-for-rosemary-plants-1403406"
+  },
+  {
+    "name": "Asparagus",
+    "scientificName": "Asparagus officinalis",
+    "imageUrl": "https://images.unsplash.com/photo-1555704574-f9ecf4717298?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Asparagus, or garden asparagus, folk name sparrow grass, scientific name Asparagus officinalis, is a perennial flowering plant species in the genus Asparagus. Its young shoots are used as a spring vegetable. It was once classified in the lily family, like the related Allium species, onions and garlic.",
+    "growingTipsUrl": "https://www.thespruce.com/how-to-plant-and-grow-asparagus-1402814"
+  },
+  {
+    "name": "Cucumber",
+    "scientificName": "Cucumis sativus",
+    "imageUrl": "https://images.unsplash.com/photo-1449300079323-02e209d9d3a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Cucumber is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cucumiform fruits that are used as vegetables. There are three main varieties of cucumber: slicing, pickling, and seedless. Within these varieties, several cultivars have been created. ",
+    "growingTipsUrl": "https://www.thespruce.com/growing-cucumbers-of-all-shapes-and-sizes-1403458"
+  },
+  {
+    "name": "Basil",
+    "scientificName": "Ocimum basilicum",
+    "imageUrl": "https://images.unsplash.com/photo-1527964105263-1ac6265a569f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800q=80",
+    "description": "Basil, also called great basil, is a culinary herb of the family Lamiaceae. Basil is native to tropical regions from central Africa to Southeast Asia. It is a tender plant, and is used in cuisines worldwide.",
+    "growingTipsUrl": "https://www.thespruce.com/how-to-grow-basil-plants-1402624"
+  },
+  {
+    "name": "Zucchini",
+    "scientificName": "Cucurbita pepo",
+    "imageUrl": "https://images.unsplash.com/photo-1552836931-d4b43ba75a1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "The zucchini or courgette is a summer squash, of Mesoamerican origin, which can reach nearly 1 m in length, but is usually harvested when still immature at about 15 to 25 cm. A zucchini is a thin-skinned cultivar of what in Britain and Ireland is referred to as a marrow. ",
+    "growingTipsUrl": "https://www.thespruce.com/growing-zucchini-and-summer-squashes-2539996"
+  },
+  {
+    "name": "Squash",
+    "scientificName": "Cucurbita pepo var. recticollis",
+    "imageUrl": "https://images.unsplash.com/photo-1569941417206-a19845ed2758?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Cucurbita is a genus of herbaceous vines in the gourd family, Cucurbitaceae native to the Andes and Mesoamerica. Five species are grown worldwide for their edible fruit, variously known as squash, pumpkin, or gourd, depending on species, variety, and local parlance, and for their seeds. ",
+    "growingTipsUrl": "https://www.thespruce.com/growing-different-types-of-squash-1403489"
+  },
+  {
+    "name": "Onion",
+    "scientificName": "Allium cepa",
+    "imageUrl": "https://images.unsplash.com/photo-1575475240735-0b191257c762?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium. Its close relatives include the garlic, shallot, leek, chive, and Chinese onion.",
+    "growingTipsUrl": "https://www.thespruce.com/growing-onions-1403447"
+  },
+  {
+    "name": "Celery",
+    "scientificName": "Apium graveolens",
+    "imageUrl": "https://images.unsplash.com/photo-1580391564590-aeca65c5e2d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80&rot=90",
+    "description": "Celery is a marshland plant in the family Apiaceae that has been cultivated as a vegetable since antiquity. Celery has a long fibrous stalk tapering into leaves. Depending on location and cultivar, either its stalks, leaves or hypocotyl are eaten and used in cooking.",
+    "growingTipsUrl": "https://www.thespruce.com/growing-celery-from-a-bunch-848229"
+  },
+  {
+    "name": "Chives",
+    "scientificName": "Allium schoenoprasum",
+    "imageUrl": "https://images.unsplash.com/photo-1564903369993-4a2c42bb1103?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=800",
+    "description": "Chives, scientific name Allium schoenoprasum, are an edible species of the genus Allium. Their close relatives include the common onions, garlic, shallot, leek, scallion, and Chinese onion. A perennial plant, it is widespread in nature across much of Europe, Asia, and North America.",
+    "growingTipsUrl": "https://www.thespruce.com/chives-growth-storage-and-usage-1761759"
+  },
+  {
+    "name": "Parsley",
+    "scientificName": "Petroselinum crispum",
+    "imageUrl": "https://images.unsplash.com/photo-1528796940112-4979b4a98424?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Parsley or garden parsley is a species of flowering plant in the family Apiaceae that is native to the central Mediterranean region, but has naturalized elsewhere in Europe, and is widely cultivated as a herb, and a vegetable. ",
+    "growingTipsUrl": "https://www.thespruce.com/grow-parsley-1402629"
+  },
+  {
+    "name": "Oregano",
+    "scientificName": "Origanum vulgare",
+    "imageUrl": "https://images.unsplash.com/photo-1533792344354-ed5e8fc12494?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "Oregano is a flowering plant in the mint family. It is native to temperate Western and Southwestern Eurasia and the Mediterranean region. Oregano is a perennial herb, growing from 20–80 cm tall, with opposite leaves 1–4 cm long. The flowers are purple, 3–4 mm long, produced in erect spikes. ",
+    "growingTipsUrl": "https://www.thespruce.com/herb-profile-oregano-1761786"
+  },
+  {
+    "name": "Cherry Tomatoes",
+    "scientificName": "Solanum lycopersicum var. cerasiforme",
+    "imageUrl": "https://images.unsplash.com/photo-1570543375343-63fe3d67761b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "The cherry tomato is a type of small round tomato believed to be an intermediate genetic admixture between wild currant-type tomatoes and domesticated garden tomatoes. Cherry tomatoes range in size from a thumbtip up to the size of a golf ball, and can range from spherical to slightly oblong in shape.",
+    "growingTipsUrl": "https://www.thespruce.com/early-season-tomatoes-tips-recommendations-2539816"
+  },
+  {
+    "name": "Eggplant",
+    "scientificName": "Solanum melongena",
+    "imageUrl": "https://images.unsplash.com/photo-1528825950832-560a4a11473a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80&rot=90",
+    "description": "Eggplant, aubergine or brinjal is a plant species in the nightshade family Solanaceae. Solanum melongena is grown worldwide for its edible fruit. Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Although often considered a vegetable, it is a berry by botanical definition. ",
+    "growingTipsUrl": "https://www.thespruce.com/how-to-grow-eggplant-4125803"
+  },
+  {
+    "name": "Mushrooms",
+    "scientificName": "Agaricus bisporus",
+    "imageUrl": "https://images.unsplash.com/photo-1512595765784-5ebad80772a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "A mushroom, or toadstool, is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground, on soil, or on its food source.",
+    "growingTipsUrl": "https://www.thespruce.com/how-to-grow-and-care-for-morel-mushrooms-4686369"
+  },
+  {
+    "name": "Beets",
+    "scientificName": "Beta vulgaris",
+    "imageUrl": "https://images.unsplash.com/photo-1573426667638-18ccdd988a39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "description": "The beetroot is the taproot portion of a beet plant, usually known in North America as the beet, and also known as the table beet, garden beet, red beet, dinner beet or golden beet.",
+    "growingTipsUrl": "https://www.thespruce.com/growing-beets-3889068"
+  }
+]

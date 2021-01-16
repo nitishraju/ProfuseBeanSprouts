@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Simple Garlic Green Beans",
+    "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "25 mins",
+    "ingredients": [
+      {
+        "amount": "1 lb",
+        "ingredient": "green beans"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "butter"
+      },
+      {
+        "amount": "3 tsp",
+        "ingredient": "garlic"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "garlic salt"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "garlic powder"
+      }
+    ],
+    "steps": "1. Melt butter in frying on medium-low. \n2. Once melted, add minced garlic and cut green beans. \n3. Sprinkle with garlic salt and garlic powder. \n4. Continue cooking on medium-low for about 20 mins or until slightly wilted."
+  },
+  {
+    "name": "Roasted Vegetable Soup",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "60 mins",
+    "ingredients": [
+      {
+        "amount": "3 quarters of a bag",
+        "ingredient": "carrots"
+      },
+      {
+        "amount": "5 medium/large",
+        "ingredient": "potatoes"
+      },
+      {
+        "amount": "3 large",
+        "ingredient": "leeks"
+      },
+      {
+        "amount": "1 floret",
+        "ingredient": "broccoli"
+      },
+      {
+        "amount": "10 large cloves",
+        "ingredient": "garlic"
+      },
+      {
+        "amount": "2 large",
+        "ingredient": "shallots"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "thyme"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "rosemary"
+      },
+      {
+        "amount": "2 containers",
+        "ingredient": "vegetable broth"
+      },
+      {
+        "amount": "as needed",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "a pinch",
+        "ingredient": "turmeric"
+      },
+      {
+        "amount": "a pinch",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "a pinch",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. Set oven to preheat, 475°F \n2. In one baking dish: \na. Dice two potatoes into small chunks, season with oil, salt & rosemary. Roast for 20-25 mins. This will be used for the garnish. \nb. Set aside the baking dish and keep warm till soup is ready to garnish with small roast potatoes. \n3. In a second baking dish: \na. Chop & combine remaining vegetables (excluding shallots) into a roasting pan. Season with oil, turmeric, salt & pepper and toss to cover all. Bake for 40 mins, turning at 20 mins. \n4. While veggies bake, combine chopped shallots, thyme, rosemary, salt, pepper & turmeric. Mix together. A few minutes prior to vegetables being baked, combine above shallot mix in your soup pot, and sauté the shallot mix in oil for a few minutes till golden. \n5. Add roast vegetables into the soup pot with shallot mix, add vegetable broth or water to immerse vegetables by an inch. Bring to a boil then simmer for 30 minutes, stirring occasionally and adding more water & seasoning to taste if needed. Blend soup with a handheld blender. Garnish finished bowl with diced roast potatoes, thyme, salt & pepper."
+  },
+  {
+    "name": "Lemon Butter Asparagus",
+    "imageUrl": "https://images.unsplash.com/photo-1519590350802-eb212e2ea536?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "40 mins",
+    "ingredients": [
+      {
+        "amount": "1 lb",
+        "ingredient": "asparagus"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "unsalted butter"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "a pinch",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "a pinch",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. Mix the melted butter and lemon juice. Pour into a large Ziplock bag and add in the asparagus. Make sure all the asparaguses are coated in the butter mixture. \n2. Place in the fridge for about 30 minutes before grilling. When ready to grill, heat grill to medium-high (about 400-450 degrees F) and brush with canola oil. \n3. Add the asparagus directly to the grill and grill for 7-10 minutes, flipping once. \n4. When fully cooked, remove from the grill and season with salt and pepper to taste."
+  }
+]

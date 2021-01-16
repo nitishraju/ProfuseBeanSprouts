@@ -1,0 +1,15 @@
+export default {
+  white: '#fff',
+  accent: '#6cc078',
+  success: '#28C93F',
+  failure: '#FF5F58',
+  text: '#728e73',
+  disabledText: '#a4cca5',
+  disabled: '#afafaf',
+  light_gray: '#F2F2F2',
+  gray: '#BDBDBD',
+  dark_gray: '#4F4F4F',
+  textInputBackground: '#ebf5e8',
+  offWhiteBackground: '#a4cca5',
+  yellow: '#ffda00',
+};

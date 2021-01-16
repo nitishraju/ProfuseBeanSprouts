@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Simple Garlic Green Beans",
+    "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "25 mins",
+    "ingredients": [
+      {
+        "amount": "1 lb",
+        "ingredient": "green beans"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "butter"
+      },
+      {
+        "amount": "3 tsp",
+        "ingredient": "garlic"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "garlic salt"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "garlic powder"
+      }
+    ],
+    "steps": "1. Melt butter in frying on medium-low. \n2. Once melted, add minced garlic and cut green beans. \n3. Sprinkle with garlic salt and garlic powder. \n4. Continue cooking on medium-low for about 20 mins or until slightly wilted."
+  },
+  {
+    "name": "Roasted Vegetable Soup",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "60 mins",
+    "ingredients": [
+      {
+        "amount": "3",
+        "ingredient": "carrots"
+      },
+      {
+        "amount": "5",
+        "ingredient": "potatoes"
+      },
+      {
+        "amount": "3",
+        "ingredient": "leeks"
+      },
+      {
+        "amount": "1",
+        "ingredient": "broccoli floret"
+      },
+      {
+        "amount": "10",
+        "ingredient": "garlic cloves"
+      },
+      {
+        "amount": "2",
+        "ingredient": "shallots"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "thyme leaves"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "rosemary"
+      },
+      {
+        "amount": "2 containers",
+        "ingredient": "low sodium vegetable broth"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "turmeric"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. Set oven to preheat, 475F. \n2. Dice two potatoes into small chunks, season with oil, salt & rosemary. Roast for 20-25 mins. This will be used for the garnish. \n3. Set aside the baking dish and keep warm till soup is ready to garnish with small roast potatoes. \n4. Chop & combine remaining vegetables (excluding shallots) into a roasting pan. Season with oil, turmeric, salt & pepper and toss to cover all. Bake for 40 mins, turning at 20 mins. \n5. While veggies bake, combine chopped shallots, thyme, rosemary, salt, pepper & turmeric. Mix together. A few minutes prior to vegetables being baked, combine above shallot mix in your soup pot, and sauté the shallot mix in oil for a few minutes till golden. \n6. Add roast vegetables into the soup pot with shallot mix, add vegetable broth or water to immerse vegetables by an inch. Bring to a boil then simmer for 30 minutes, stirring occasionally and adding more water & seasoning to taste if needed. Blend soup with a handheld blender. Garnish finished bowl with diced roast potatoes, thyme, salt & pepper."
+  },
+  {
+    "name": "Lemon Butter Asparagus",
+    "imageUrl": "https://images.unsplash.com/photo-1519590350802-eb212e2ea536?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "40 mins",
+    "ingredients": [
+      {
+        "amount": "1 lb",
+        "ingredient": "asparagus"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "unsalted butter"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. Mix the melted butter and lemon juice. Pour into a large Ziploc bag and add in the asparagus. Make sure all the asparaguses are coated in the butter mixture. \n2. Place in the fridge for about 30 minutes before grilling. When ready to grill, heat grill to medium-high (about 400-450°F) and brush with canola oil. \n3. Add the asparagus directly to the grill and grill for 7-10 minutes, flipping once. \n4. When fully cooked, remove from the grill and season with salt and pepper to taste."
+  },
+  {
+    "name": "Garlic Zucchini Tots",
+    "imageUrl": "https://images.unsplash.com/photo-1571775499802-8d307de9d8e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "40 mins",
+    "ingredients": [
+      {
+        "amount": "1 cup grated",
+        "ingredient": "zucchini"
+      },
+
+      {
+        "amount": "1",
+        "ingredient": "egg"
+      },
+
+      {
+        "amount": "1/3 cup",
+        "ingredient": "breadcrumbs"
+      },
+
+      {
+        "amount": "1/4 cup",
+        "ingredient": "finely grated parmesan cheese"
+      },
+
+      {
+        "amount": "1 finely grated clove",
+        "ingredient": "garlic"
+      },
+
+      {
+        "amount": "2 tbsp chopped",
+        "ingredient": "chives"
+      },
+      {
+        "amount": "1 tbsp chopped",
+        "ingredient": "parsley"
+      },
+      {
+        "amount": "1 tsp chopped",
+        "ingredient": "basil"
+      },
+      {
+        "amount": "1 tsp chopped",
+        "ingredient": "oregano"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. Preheat oven to 400F. Lightly coat a baking sheet with olive oil or non-stick spray. Set aside. \n2. Use a box grater to grate the zucchini into a clean towel. Roll up the towel and twist to wring out the moisture. Grate the garlic using the small holes on the box grater. \n3. In a medium bowl, combine all the ingredients and mix well. \n4. Shape a tablespoon of the mixture into your hands, pat into small balls, and place on the baking sheet. \n5. Bake for 15-18 minutes in the preheated oven until golden. Serve warm with marinara sauce. Recipe makes about 16 bites."
+  },
+  {
+    "name": "Tuna Melt Tomatoes",
+    "imageUrl": "https://images.unsplash.com/photo-1477921510058-85812315a3c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "30 mins",
+    "ingredients": [
+      {
+        "amount": "4",
+        "ingredient": "tomatoes"
+      },
+      {
+        "amount": "6 oz",
+        "ingredient": "drained tuna"
+      },
+      {
+        "amount": "2 1/2 tbsp",
+        "ingredient": "mayonnaise"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "minced celery"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "parsley"
+      },
+      {
+        "amount": "1/2 tbsp",
+        "ingredient": "ground mustard"
+      },
+      {
+        "amount": "2 tsp",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "2 slices",
+        "ingredient": "cheddar cheese"
+      },
+      {
+        "amount": "1/4 tsp",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "1/8 tsp",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. Preheat oven to 400F, and line or grease a baking sheet. \n2. Cut tomatoes in half and use the bottom half of tomatoes. \n3. Using a knife slice around the inner edges of tomato halves and with a spoon, scoop out the center of tomatoes. Be sure to dump out all seeds, pulp and juices. Turn tomato halves over on a plate to drain. \n4. In a medium bowl combine all the remaining ingredients except for the cheese slices. Mix together and break up tuna into flakes. Mix until combined. \n5. Turn the tomato halves over and fill each hollowed out tomato with tuna salad mixture. \n6. Cut the 2 cheese slices in half and top each tomato with cheese. \n7. Bake for 15 minutes. Remove from oven, cool and serve."
+  },
+  {
+    "name": "Sweet Sriracha Carrots",
+    "imageUrl": "https://images.unsplash.com/photo-1549716679-efce92a6bd12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "ingredients": [
+      {
+        "amount": "2 lb",
+        "ingredient": "carrots"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "honey"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "sriracha"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "oil"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. Toss the carrots in the mixture of the honey, sriracha, salt & pepper and oil, arrange in a single layer on a baking sheet and bake in a preheated 400˚F/200˚C oven until tender, about 15-20 minutes, turning once in the middle."
+  },
+  {
+    "name": "Beet Brownies",
+    "imageUrl": "https://images.unsplash.com/photo-1556228489-5f04f6a9ad78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "60 mins",
+    "ingredients": [
+      {
+        "amount": "8 tbsp",
+        "ingredient": "unsalted butter"
+      },
+      {
+        "amount": "1 1/4 cup",
+        "ingredient": "cane sugar"
+      },
+      {
+        "amount": "3/4 cup",
+        "ingredient": "unsweetened cocoa powder"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "kosher salt"
+      },
+      {
+        "amount": "2",
+        "ingredient": "eggs"
+      },
+      {
+        "amount": "2 tsp",
+        "ingredient": "vanilla extract"
+      },
+      {
+        "amount": "1 1/2 cup puree",
+        "ingredient": "beets"
+      },
+      {
+        "amount": "3/4 cup",
+        "ingredient": "unbleached flour"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "baking powder"
+      },
+      {
+        "amount": "1/2 cup",
+        "ingredient": "dark chocolate chunks"
+      }
+    ],
+    "steps": "1. Preheat oven to 325F. Grease or line an 8x8x2 metal pan with parchment foil paper. \n2. Using a saucepan over medium heat, melt butter. Stir frequently as it continues to bubble. When there are small brown specks and it smells like nutty caramel, remove the pan from heat. \n3. Add sugar, cocoa powder and salt to combine. \n4. In separate bowl, beat eggs. After butter mixture has cooled in pot 4-5 minutes, slowly pour in eggs, stirring constantly until well combined. \n5. Add vanilla and beet puree, stir to combine. \n6. Add flour and baking powder, stir to combine. \n7. Add chocolate chunks, stir to combine. \n8. Bake 25-35 minutes in preheated oven or until the top no longer looks wet."
+  },
+  {
+    "name": "Everyday Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+    "time": "20 mins",
+    "ingredients": [
+      {
+        "amount": "5 oz",
+        "ingredient": "spring greens mix"
+      },
+      {
+        "amount": "1 thinly sliced",
+        "ingredient": "cucumber"
+      },
+      {
+        "amount": "1/2 thinly sliced red",
+        "ingredient": "onion"
+      },
+      {
+        "amount": "1/2 cup",
+        "ingredient": "pepitas"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "Dijon mustard"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "garlic powder"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "1/4 tsp",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. To make the dressing, whisk all ingredients together in a bowl (or shake together in a mason jar) until combined.  Use immediately or refrigerate in a sealed container for up to 3 days. \n2. To make the salad, combine all ingredients in a large salad bowl and toss until evenly combined.  Serve immediately and enjoy!"
+  },
+  {
+    "name": "Garden Vegetable Pie",
+    "imageUrl": "https://images.unsplash.com/photo-1507273026339-31b655f3752d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "time": "50 mins",
+    "ingredients": [
+      {
+        "amount": "9 in",
+        "ingredient": "prebaked pie shell"
+      },
+      {
+        "amount": "3",
+        "ingredient": "tomatoes"
+      },
+      {
+        "amount": "1",
+        "ingredient": "zucchini"
+      },
+      {
+        "amount": "1",
+        "ingredient": "yellow squash"
+      },
+      {
+        "amount": "1/2 cup sliced",
+        "ingredient": "red onion"
+      },
+      {
+        "amount": "3/4 oz chopped",
+        "ingredient": "basil"
+      },
+      {
+        "amount": "1 cup grated",
+        "ingredient": "mozzarella"
+      },
+      {
+        "amount": "1 cup grated",
+        "ingredient": "cheddar"
+      },
+      {
+        "amount": "3/4 cup",
+        "ingredient": "mayonnaise"
+      },
+      {
+        "amount": "2 tbsp grated",
+        "ingredient": "parmesan cheese"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "to taste",
+        "ingredient": "pepper"
+      }
+    ],
+    "steps": "1. Preheat oven to 350F. \n2. Place the tomatoes in a colander in the sink in 1 layer. Sprinkle with salt and allow to drain for 10 minutes. Use a paper towel to pat-dry the tomatoes and make sure most of the excess juice is out. \n3. Layer the tomato slices, zucchini, squash, and onion on the bottom of the pie shell. Sprinkle basil on top. Combine the grated cheeses and mayonnaise together. Smooth cheese mixture over the top and sprinkle parmesan cheese on top. Bake for about 30 minutes or until lightly browned. Allow to cool for at least 10 minutes."
+  }
+]
